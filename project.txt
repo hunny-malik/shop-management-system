@@ -81,7 +81,7 @@ def createConn():
     global cursor
 
     conn = mysql.connector.connect(
-        host='localhost', password='sumanjeet83', user='root', database='shop')
+        host='localhost', password='password', user='root', database='shop')
     cursor = conn.cursor()
 
 
