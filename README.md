@@ -1,3 +1,5 @@
+This was one of my starting project
+
 in this project i have made shop management system and have these features - 
 -data base connectivity
 -retrieve/add/delete/update/search product, cutomer, rating, sales data from database
